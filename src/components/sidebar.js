@@ -1,7 +1,7 @@
 import { Link } from 'gatsby'
 import React from 'react'
 
-import Logo from './pic.jpg'
+import Logo from './pic.png'
 
 const Sidebar = ({ siteMetadata }) => (
   <>
@@ -41,16 +41,7 @@ const Sidebar = ({ siteMetadata }) => (
                 </a>
               </li>
             )}
-            {siteMetadata.social.github && (
-              <li>
-                <a
-                  href={`https://github.com/${siteMetadata.social.github}`}
-                  target="_blank"
-                >
-                  <i className="fa fa-github" aria-hidden="true" />
-                </a>
-              </li>
-            )}
+            
             {siteMetadata.social.linkedin && (
               <li>
                 <a

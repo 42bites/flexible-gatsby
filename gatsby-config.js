@@ -1,15 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Flexible Gatsby`,
-    description: `I am a web developer focusing on front-end development. Always hungry to keep learning.`,
-    author: `David Freeman`,
-    siteUrl: `https://github.com/wangonya/flexible-gatsby`,
+    title: `Gignux.org`,
+    description: `“Adattarsi o perire, oggi come sempre, è l’inesorabile imperativo della natura”.`,
+    author: `Sergio Malagoli`,
+    siteUrl: `https://gingux.org`,
     social: {
-      twitter: `wang0nya`,
-      facebook: ``,
+      twitter: `gignux`,
+      facebook: `sergio.malagoli.1`,
       github: `wangonya`,
-      linkedin: `wangonya`,
-      email: `kwangonya@gmail.com`,
+      linkedin: `sergio-malagoli`,
+      email: ``,
     },
   },
   plugins: [
