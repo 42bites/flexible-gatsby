@@ -6,6 +6,7 @@ import Helmet from 'react-helmet'
 import Sidebar from '.././components/sidebar'
 import '../styles/main.scss'
 import '../styles/fonts/font-awesome/css/font-awesome.min.css'
+import favicon from './pic.png'
 
 const DefaultLayout = ({ children }) => (
   <StaticQuery
@@ -33,6 +34,7 @@ const DefaultLayout = ({ children }) => (
             href="https://fonts.googleapis.com/css?family=Lato|PT+Serif&display=swap"
             rel="stylesheet"
           />
+          <link rel="icon" href={favicon} />
         </Helmet>
         <Sidebar siteMetadata={data.site.siteMetadata} />
         {children}
