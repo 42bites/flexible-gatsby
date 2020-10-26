@@ -2,6 +2,7 @@ import React from 'react'
 import { Link, graphql } from 'gatsby'
 import { kebabCase } from 'lodash';
 import Img from 'gatsby-image'
+import { Helmet } from "react-helmet"
 
 import DefaultLayout from '../components/layout'
 import SEO from '../components/seo'
@@ -15,6 +16,11 @@ class BlogPostTemplate extends React.Component {
 
     return (
       <DefaultLayout>
+        <Helmet>
+        <meta property="og:image" content={post.frontmatter.img.childImageSharp.fluid.src} />
+        <meta property="og:image:width" content="400" />
+        <meta property="og:image:width" content="50" />
+        </Helmet>
         <SEO title={post.frontmatter.title} description={post.excerpt} />
         <div className="clearfix post-content-box">
           <article className="article-page">
