@@ -14,7 +14,7 @@ L'autoapprendimento può arricchire le tue conoscenze ogni giorno. E la buona no
 
 Il web sta diventando sempre più una potente risorsa che può aiutarti facilmente a imparare qualcosa di nuovo ogni giorno.
 
-Visito costantemente alcuni di questi siti ogni settimana per conoscere nuovi argomenti, idee, concetti e modelli mentali per migliorare me stesso.
+Visito costantemente alcuni di questi siti ogni settimana per conoscere nuovi argomenti, idee, concetti e modelli mentali.
 
 1. [BBC — Future](http://www.bbc.com/future)  — Renditi più intelligente, ogni giorno.
 
