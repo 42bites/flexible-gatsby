@@ -10,11 +10,9 @@ tags: [time, work, life, edu]
 
 > “La crescita intellettuale dovrebbe iniziare alla nascita e cessare solo alla morte.” disse Albert Einstein. L'apprendimento permanente è uno dei modi migliori per migliorare la tua vita e la tua carriera.”
 
-L'autoapprendimento può arricchire le tue conoscenze ogni giorno. E la buona notizia è che accedi a risorse online gratuite ovunque per aiutarti a diventare una versione migliore di te stesso.
+L'autoapprendimento può arricchire le tue conoscenze ogni giorno. E la buona notizia è che ci sono risorse online gratuite ovunque per aiutarti a diventare una versione migliore di te stesso.
 
-La tua carriera e la tua vita personale non saranno più le stesse se puoi impegnarti in alcune di queste fantastiche risorse in soli dieci minuti al giorno.
-
-Il web sta diventando sempre più una potente risorsa che può aiutarti facilmente a imparare qualcosa di nuovo ogni giorno. C'è una grande possibilità che tu possa mettere a frutto almeno uno di questi fantastici siti e farti conoscere come una persona migliore di quanto eri l'anno scorso.
+Il web sta diventando sempre più una potente risorsa che può aiutarti facilmente a imparare qualcosa di nuovo ogni giorno.
 
 Visito costantemente alcuni di questi siti ogni settimana per conoscere nuovi argomenti, idee, concetti e modelli mentali per migliorare me stesso.
 
