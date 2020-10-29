@@ -3,7 +3,7 @@ title: News - Facebook - Startup - Esport
 date: 2020-10-29
 description: # Add post description (optional)
 img: daniel-korpai-oWiEeTIxYvk-unsplash.jpg # Add image post (optional)
-tags: [social,facebook]
+tags: [news,social,facebook]
 ---
 
 ## Facebook si prepara a gestire possibili disordini legati alle elezioni.
