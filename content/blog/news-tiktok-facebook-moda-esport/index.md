@@ -1,6 +1,6 @@
 ---
 title: news - tik tok- facebook - moda - Esport
-date: 2020-11-202
+date: 2020-11-02
 description: # Add post description (optional)
 img: roya-ann-miller-TmB3wiXntxs-unsplash.jpg # Add image post (optional)
 tags: [news,social,facebook,tiktok]
