@@ -16,4 +16,4 @@ Un altro trend sarà quello di inviare mail di solo testo. Sempre nell’ottica 
 
 Infine, una tendenza da tenere d’occhio nel 2021 sarà quella delle mail interattive. Con l’**AMP** (Accelerated Mobile Pages) possiamo aggiungere **contenuti interattivi**, ad esempio se vogliamo mostrare una varietà di prodotti e permettere agli utenti di acquistare direttamente dalla mail, senza dover cliccare su link esterni. 
 
-In [questo articolo](https://influencermarketinghub.com/email-marketing-predictions/) trovi 8 previsioni per il 2021 che riguardano l'email marketing. Dai un’occhiata e pensa a quali strumenti potrebbero aiutarti a dare carattere ed efficacia alle tue mai.
+In [questo articolo](https://influencermarketinghub.com/email-marketing-predictions/) trovi 8 previsioni per il 2021 che riguardano l'email marketing.
