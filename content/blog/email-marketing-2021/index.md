@@ -8,7 +8,7 @@ tags: [marketing, work, email]
 
 #Email Marketing nel 2021
 
-Nel 2020 abbiamo assistito ad alcuni grandi cambiamenti nel **marketing digitale **e l’anno nuovo ne porterà certamente ancora. È importante prestare attenzione alle tendenze e stare al passo con le novità, senza però stravolgere le nostre strategie. 
+Nel 2020 abbiamo assistito ad alcuni grandi cambiamenti nel **marketing digitale** e l’anno nuovo ne porterà certamente ancora. È importante prestare attenzione alle tendenze e stare al passo con le novità, senza però stravolgere le nostre strategie. 
 
 Tra le tendenze che si profilano all’orizzonte dell’**email marketing**, la prima che emerge è quella dell’**iper-personalizzazione**. La sola aggiunta del nome del destinatario nell'oggetto e nel testo non sarà più sufficiente per avere un impatto. Gli utenti cercano contenuti con informazioni rilevanti, che sembrino scritti apposta per loro. Possiamo iniziare con il segmentare la lista in piccoli gruppi e inviando contenuti dinamici.
 
