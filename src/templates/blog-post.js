@@ -13,13 +13,26 @@ class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
     const { previous, next } = this.props.pageContext
+    console.log(this.props.data);
 
     return (
       <DefaultLayout>
         <Helmet>
-        <meta property="og:image" content={post.frontmatter.img.childImageSharp.fluid.src} />
         <meta property="og:image:width" content="400" />
         <meta property="og:image:width" content="50" />
+
+<meta property="og:url" content={window.location.href} />
+<meta property="og:type" content="website" />
+<meta property="og:title" content={post.frontmatter.title} />
+<meta property="og:description" content="{post.frontmatter.excerpt}" />
+<meta property="og:image" content={post.frontmatter.img.childImageSharp.fluid.src} />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta property="twitter:domain" content="gignux.org"/>
+<meta property="twitter:url" content={window.location.href} />
+<meta name="twitter:title" content={post.frontmatter.title} />
+<meta name="twitter:description" content={post.frontmatter.excerpt}/>
+<meta name="twitter:image" content={post.frontmatter.img.childImageSharp.fluid.src} />
+
         </Helmet>
         <SEO title={post.frontmatter.title} description={post.excerpt} />
         <div className="clearfix post-content-box">
