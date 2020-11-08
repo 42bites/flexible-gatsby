@@ -28,7 +28,7 @@ class BlogPostTemplate extends React.Component {
 <meta property="og:image" content={post.frontmatter.img.childImageSharp.fluid.src} />
 <meta name="twitter:card" content="summary_large_image"/>
 <meta property="twitter:domain" content="gignux.org"/>
-<meta property="twitter:url" content={window.location.href} />
+<meta property="twitter:url" content={this.slug} />
 <meta name="twitter:title" content={post.frontmatter.title} />
 <meta name="twitter:description" content={post.frontmatter.excerpt}/>
 <meta name="twitter:image" content={post.frontmatter.img.childImageSharp.fluid.src} />
