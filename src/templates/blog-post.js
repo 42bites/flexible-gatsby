@@ -21,7 +21,7 @@ class BlogPostTemplate extends React.Component {
         <meta property="og:image:width" content="400" />
         <meta property="og:image:width" content="50" />
 
-<meta property="og:url" content={window.location.href} />
+<meta property="og:url" content={this.slug} />
 <meta property="og:type" content="website" />
 <meta property="og:title" content={post.frontmatter.title} />
 <meta property="og:description" content="{post.frontmatter.excerpt}" />
