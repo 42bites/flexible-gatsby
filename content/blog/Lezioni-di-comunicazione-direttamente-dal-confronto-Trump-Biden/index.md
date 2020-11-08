@@ -8,7 +8,7 @@ tags: [comunicazione, work,life]
 
 Sappiamo tutti come sono, forse, come sono finite le elezione Americane, l’argomento di oggi affronta il tema della comunicazione efficace, prendendo spunto dal “**presidential debate**” dello scorso 29 settembre. Punti che direte banali, ma come nel mio caso difficili da mettere in pratica nella vita di tutti i giorni. Soprattutto per il punto 2 e 4!. Cosa possiamo imparare in termini di comunicazione dal dibattito tra Trump e Biden?
 
-Questo articolo ci fornisce una risposta interessante, da cui possiamo trarre alcune lezioni da applicare nel concreto. Tra le altre cose, quando comunichiamo, ricordiamoci che:
+Questo [articolo](https://www.forbes.com/sites/ashiraprossack1/2020/09/30/communication-lessons-from-the-presidential-debate/) ci fornisce una risposta interessante, da cui possiamo trarre alcune lezioni da applicare nel concreto. Tra le altre cose, quando comunichiamo, ricordiamoci che:
 
 1.    Il modo di comunicare è importante quanto il contenuto. Non conta solo ciò che si dice, ma anche come lo si dice. A volte il modo è più importante del messaggio stesso. 
 
