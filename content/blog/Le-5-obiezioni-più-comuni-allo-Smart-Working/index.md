@@ -1,5 +1,5 @@
 ---
-title: Smart Working? Non in questa azienda. 5 obiezioni e 5 modi per smontarle
+title: 5 obiezioni e 5 modi per smontare chi non vuole lo Smart Working
 date: 2020-11-19
 description: # Add post description (optional)
 img: davide-baraldi-A7b2HDOtcAo-unsplash.jpg # Add image post (optional)
