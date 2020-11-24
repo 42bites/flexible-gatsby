@@ -1,6 +1,6 @@
 ---
 title: Marketing automation - perchè le aziende ne hanno bisogno
-date: 2020-11-20
+date: 2020-11-23
 description: # Add post description (optional)
 img: thomas-de-luze-fhx7hZRz3vc-unsplash.jpg # Add image post (optional)
 tags: [business, work, life, marketing]
