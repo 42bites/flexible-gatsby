@@ -1,6 +1,6 @@
 ---
 title: IL POTERE DEI MOMENTI
-date: 2020-10-26
+date: 2021-01-27
 description: # Add post description (optional)
 img: girasoli-gignux.png # Add image post (optional)
 tags: [time, work, life]
