@@ -19,7 +19,7 @@ class BlogIndex extends React.Component {
       <DefaultLayout>
         <SEO
           title={siteTitle}
-          keywords={[`blog`, `gatsby`, `javascript`, `react`]}
+          keywords={[`blog`, `gignuz`, `business`, `life`]}
         />
         <div className="content-box clearfix">
           {posts.map(({ node }) => {
