@@ -1,5 +1,5 @@
 ---
-title: I tre impegni con te stesso per consquistare la tua "unica cosa"
+title: I tre impegni con te stesso per conquistare la tua "unica cosa"
 date: 2021-02-13
 description: # Add post description (optional)
 img: eleonora-giannetto-iAovsVG3d5A-unsplash.jpg # Add image post (optional)
