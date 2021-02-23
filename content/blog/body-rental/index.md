@@ -1,5 +1,5 @@
 ---
-title: Body rental: il caporalato degli informatici
+title: Body rental, il caporalato degli informatici
 date: 2021-02-22
 description: # Add post description (optional)
 img: photo.jpeg# Add image post (optional)
